@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=apb7&count_private=true&show_icons=true&title_color=ffffff&icon_color=341C09&text_color=daf7dc&bg_color=236AB9">
+
 <!--
 **apb7/apb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
